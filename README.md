@@ -1,4 +1,4 @@
-# codealpha_Simple Image Gallery
+# codealpha_ImageGallery
 
 A simple image gallery built using HTML, CSS, and JavaScript. The gallery displays a set of images, and users can click on any thumbnail to view a larger version of the image. It also includes options to navigate to the next and previous images, as well as a close button to exit the full-screen view.
 
